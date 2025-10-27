@@ -1,0 +1,7 @@
+opencv-python==4.11.0.86
+mediapipe==0.10.14
+numpy==1.26.4
+onnxruntime==1.18.1
+protobuf==4.25.8
+sounddevice==0.5.3
+webrtcvad-wheels==2.0.14
